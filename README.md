@@ -44,11 +44,7 @@ A smart waste bin project using sensors to detect the level of waste inside the 
 - Improve my coding skills 💻
 - Become an AI/ML Engineer 🚀
 
-## 🚀 How to Run
 
-1. Download or clone this repository.
-2. Keep `index.html` and `style.css` in the same folder.
-3. Open `index.html` in your browser.
 
 ## 💗 About Me
 
